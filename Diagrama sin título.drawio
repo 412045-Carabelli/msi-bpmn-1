@@ -40,6 +40,15 @@
         <mxCell id="kCDRWN4eHYptyOttCMa9-3" value="no me parece gino...sos un desubicado" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1280" y="200" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="f1vLD40QCaAwOBP5ir42-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f1vLD40QCaAwOBP5ir42-1" target="f1vLD40QCaAwOBP5ir42-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f1vLD40QCaAwOBP5ir42-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="190" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f1vLD40QCaAwOBP5ir42-2" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="230" width="20" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
